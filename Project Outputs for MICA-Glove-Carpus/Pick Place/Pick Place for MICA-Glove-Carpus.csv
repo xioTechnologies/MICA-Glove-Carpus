@@ -4,13 +4,16 @@ C:\MyFiles\x-io\Services\MICA Lab\MICA-Glove-Carpus\Project Outputs for MICA-Glo
 ========================================================================================================================
 File Design Information:
 
-Date:       25/06/24
-Time:       13:00
-Revision:   9601e35690d8f2c3a405de3b77fd62f214915b09
+Date:       28/06/24
+Time:       11:56
+Revision:   c189187ae0225a62eb3572cf9eb7ae57204977b9
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"U3","25.0000mm","25.0000mm","TopLayer","180","PIC32MZ2048EFH144-250I/PH"
+"CH1_J2","12.5000mm","30.0000mm","TopLayer","90","Molex 502426-2030"
+"J1","25.0000mm","12.4998mm","TopLayer","180","Molex 502426-2630"
 "L2","12.2500mm","16.7500mm","TopLayer","90","3.3uH, 80mR (SRN3015C-3R3M)"
 "L1","12.2500mm","23.7500mm","TopLayer","90","3.3uH, 80mR (SRN3015C-3R3M)"
 "Y1","15.5000mm","34.5000mm","TopLayer","0","ECS-TXO-2520-33-240-AN-TR"
@@ -34,7 +37,6 @@ Units used: mm
 "C7","14.7500mm","16.5000mm","TopLayer","90","10uF"
 "C8","10.9000mm","14.0000mm","TopLayer","90","10uF"
 "U2","12.7500mm","13.2500mm","TopLayer","270","TPS63002"
-"CH1_J2","12.5000mm","30.0000mm","TopLayer","90","Molex 502426-2030"
 "CH2_J2","15.5000mm","37.5000mm","TopLayer","0","Molex 502426-2030"
 "CH3_J2","25.0000mm","37.5000mm","TopLayer","0","Molex 502426-2030"
 "CH4_J2","34.5000mm","37.5000mm","TopLayer","0","Molex 502426-2030"
@@ -58,27 +60,25 @@ Units used: mm
 "R3","15.0000mm","11.0000mm","TopLayer","0","4.7kR"
 "R4","16.7500mm","11.0000mm","TopLayer","180","4.7kR"
 "U4","16.5000mm","13.5000mm","TopLayer","90","24AA32AT-I/MC"
-"J1","25.0000mm","12.4998mm","TopLayer","180","Molex 502426-2630"
-"C19","20.2500mm","14.2500mm","TopLayer","270","10uF"
+"C19","20.2500mm","14.2500mm","TopLayer","270","1uF"
 "C22","38.5000mm","21.5000mm","TopLayer","180","1uF"
 "C21","38.5000mm","18.2500mm","TopLayer","0","1uF"
 "R5","38.5000mm","22.5000mm","TopLayer","180","4.7kR"
 "U8","38.5000mm","19.7500mm","TopLayer","180","DRV2605LYZF"
-"C20","30.7500mm","13.5000mm","TopLayer","0","10uF"
+"C20","30.7500mm","13.5000mm","TopLayer","0","1uF"
 "R6","38.5000mm","23.5000mm","TopLayer","180","4.7kR"
-"U5","19.2500mm","12.0000mm","TopLayer","270","SK6805-EC15"
+"U5","19.2500mm","12.0000mm","TopLayer","90","SK6805-EC15"
 "U6","30.7500mm","12.0000mm","TopLayer","90","SK6805-EC15"
 "M1","36.0950mm","23.5000mm","TopLayer","90","VG0832014L"
 "R2","21.7500mm","14.7500mm","TopLayer","0","10kR"
-"U3","25.0000mm","25.0000mm","TopLayer","180","PIC32MZ2048EFH144-250I/PH"
 "CH5_C24","39.0000mm","25.2500mm","TopLayer","90","1uF"
 "CH4_C24","39.0000mm","34.7500mm","TopLayer","90","1uF"
-"U7","18.7500mm","14.2500mm","TopLayer","180","SN74LVC1G97DRL"
-"CH5_U9","37.2500mm","25.2500mm","TopLayer","90","SN74LVC1G97DRL"
+"U7","18.7500mm","14.2500mm","TopLayer","180","SN74LVC1G97DRLR"
+"CH5_U9","37.2500mm","25.2500mm","TopLayer","90","SN74LVC1G97DRLR"
 "CH3_C24","29.7500mm","39.0000mm","TopLayer","180","1uF"
-"CH3_U9","29.7500mm","37.2500mm","TopLayer","180","SN74LVC1G97DRL"
+"CH3_U9","29.7500mm","37.2500mm","TopLayer","180","SN74LVC1G97DRLR"
 "CH2_C24","20.2500mm","39.0000mm","TopLayer","180","1uF"
-"CH2_U9","20.2500mm","37.2500mm","TopLayer","180","SN74LVC1G97DRL"
+"CH2_U9","20.2500mm","37.2500mm","TopLayer","180","SN74LVC1G97DRLR"
 "CH1_C24","11.0000mm","34.7500mm","TopLayer","270","1uF"
-"CH1_U9","12.7500mm","34.7500mm","TopLayer","270","SN74LVC1G97DRL"
-"CH4_U9","37.2500mm","34.7500mm","TopLayer","90","SN74LVC1G97DRL"
+"CH1_U9","12.7500mm","34.7500mm","TopLayer","270","SN74LVC1G97DRLR"
+"CH4_U9","37.2500mm","34.7500mm","TopLayer","90","SN74LVC1G97DRLR"
