@@ -319,7 +319,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LVHBYFEG
 
 [Document17]
 DocumentPath=..\..\..\Open-Source\x-io-Altium-Library\x-io.SchLib
@@ -336,19 +336,19 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BCKSGAQA
 
 [Parameter1]
-Name=Version
-Value=v1.0
+Name=Author
+Value=Seb Madgwick
 
 [Parameter2]
 Name=Project
 Value=MICA Glove Carpus
 
 [Parameter3]
-Name=Author
-Value=Seb Madgwick
+Name=Version
+Value=v1.0
 
 [Configuration1]
 Name=Sources
