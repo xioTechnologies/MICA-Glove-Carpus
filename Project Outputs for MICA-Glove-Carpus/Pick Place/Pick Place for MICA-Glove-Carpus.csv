@@ -4,19 +4,19 @@ C:\MyFiles\x-io\Services\MICA Lab\MICA-Glove-Carpus\Project Outputs for MICA-Glo
 ========================================================================================================================
 File Design Information:
 
-Date:       29/06/24
-Time:       22:41
-Revision:   401c0b8504d87ac88e9ab871a0f90a228f26676a
+Date:       30/06/24
+Time:       13:19
+Revision:   e5091499d302c82387d2806ec9ec9a1b6ab2d566
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"J1","25.0000mm","12.4998mm","TopLayer","180","Molex 502426-2630"
 "M1","36.0950mm","23.5000mm","TopLayer","90","VG0832014L"
 "R1","30.7500mm","14.7500mm","TopLayer","180","10kR"
 "R2","21.7500mm","14.7500mm","TopLayer","180","470R"
 "U3","25.0000mm","25.0000mm","TopLayer","180","PIC32MZ2048EFH144-250I/PH"
 "CH1_J2","12.5000mm","30.0000mm","TopLayer","90","Molex 502426-2030"
-"J1","25.0000mm","12.4998mm","TopLayer","180","Molex 502426-2630"
 "L2","12.2500mm","16.7500mm","TopLayer","0","3.3uH, 80mR (SRN3015C-3R3M)"
 "L1","12.2500mm","23.7500mm","TopLayer","0","3.3uH, 80mR (SRN3015C-3R3M)"
 "Y1","15.5000mm","34.5000mm","TopLayer","0","ECS-TXO-2520-33-240-AN-TR"
